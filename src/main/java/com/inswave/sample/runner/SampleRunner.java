@@ -12,6 +12,6 @@ public class SampleRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        System.out.println(String.format("Type is %s", type));
+        System.out.printf("Type is %s%n", type);
     }
 }
