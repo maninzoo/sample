@@ -1,0 +1,6 @@
+sample:
+  secret:
+    username: root
+    password: rootPassword
+  configmap:
+    type: common
