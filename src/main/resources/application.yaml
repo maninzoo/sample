@@ -1,6 +1,6 @@
 sample:
   secret:
-    username: ${SAMPLE_USERNAME}
-    password: ${SAMPLE_PASSWORD}
+    username: root
+    password: rootPassword
   configmap:
-    type: ${SAMPLE_TYPE}
+    type: common
